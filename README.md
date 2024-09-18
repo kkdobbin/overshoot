@@ -1,6 +1,9 @@
 # overshoot
 SEM project exploring the interactions between world systems position, gender, development, neoliberalism and overshoot
 
+# Related paper/citation
+Cannon, C. E., & Dobbin, K. B. (2022). Unpacking sustainability: A feminist political ecological analysis of global overshoot. ELEMENTA-SCIENCE OF THE ANTHROPOCENE, 10(1).
+
 # Data compilation
 Used cleaned sub data sheets to compile a master data set with all needed variables. This happened in two stages corresponding to scripts datacompilation_initial and datacompilation_final with hand cleaning after each. Variables and their sources and definitions are all defined in data dictionary word doc which I will copy and paste into here as well. 
 
